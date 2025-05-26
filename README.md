@@ -13,7 +13,7 @@ A lightweight, educational implementation of a Convolutional Neural Network (CNN
 ## Installation
 
 ```bash
-git clone https://github.com//numpy-cnn.git
+git clone https://github.com/krzysgit/CNN_from_scratch.git
 cd numpy-cnn
 pip install -r requirements.txt
 ```
