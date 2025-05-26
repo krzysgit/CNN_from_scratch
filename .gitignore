@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug output
+*.log
+*.out
+
+# Dataset files (optional)
+data/
+*.csv
+*.h5
+*.zip
+*.tar.gz
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (if using)
+.vscode/
+
+# Environment/config files
+.env
+*.ini
+*.cfg
+
+# Matplotlib cache
+.matplotlib/
+
+# Ignore results and plots
+results/
+*.png
+*.pdf
